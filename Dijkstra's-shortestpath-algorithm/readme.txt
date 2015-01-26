@@ -1,0 +1,3 @@
+Implementation of Dijkstra's Algorithm in C
+--------------------------------------------
+Provide an input file containing adjacency list of unidirected weighted graph with 200 vertices as shown in sample input file. Each row consists of the node tuples that are adjacent to that particular vertex along with the length of that edge. The program will report the shortest path for 7,37,59,82,99,115,133,165,188,197 for vertex 1.
